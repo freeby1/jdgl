@@ -1,0 +1,11 @@
+
+ 数据库连接配置在src/com/util/DBO.java中，可自行修改。代码如下：
+conn=DriverManager.getConnection("jdbc:mysql://localhost/jdgl?useUnicode=true&characterEncoding=gb2312","root","123"); 
+123 是数据库的密码  换成自己的
+
+网址
+http://localhost:8080/jdgl/
+
+管理员 admin  密码 111
+
+用户    111   密码 111 
